@@ -1,0 +1,22 @@
+{
+  "name": "goesbot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "opusscript": "^0.0.6",
+    "request": "^2.87.0",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thúlio Carvalho",
+  "license": "ISC"
+}
